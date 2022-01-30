@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(40deg, rgb(235, 67, 67), rgb(236, 220, 220) 100%);
+}
+
+.satu {
+  width: 40rem;
+  height: 20rem;
+  margin: 0 auto;
+  border: 1px solid black;
+  background: radial-gradient(white, blue);
+}
+
+.dua {
+  width: 40rem;
+  height: 10rem;
+  border: 1px solid black;
+  margin: 0 auto;
+  background: linear-gradient(0.25turn, white, blue, white);
+}
